@@ -48,7 +48,7 @@ Explore different insights dynamically
 📌 Key Insights
 Identifies top-performing regions and products
 Highlights sales trends over time
-Helps in comparing categories بسهولة
+Helps in comparing categories easily
 Provides quick decision-making support
 🔮 Future Improvements
 Add more KPIs (Profit, Growth %)
