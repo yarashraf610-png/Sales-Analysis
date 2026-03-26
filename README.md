@@ -1,6 +1,8 @@
 # Sales-Analysis
 Excel-based dashboard that transforms raw sales data into actionable insights through dynamic visualizations and filtering tools.
 📊 Excel Sales Dashboard
+<img width="1549" height="622" alt="Screenshot 2026-03-26 152333" src="https://github.com/user-attachments/assets/821e13eb-3e2c-42fe-9c34-616b794c10b4" />
+
 📌 Overview
 
 This project presents an interactive Sales Dashboard built in Microsoft Excel to analyze and visualize sales performance.
